@@ -1,3 +1,11 @@
+store： 存放mobile模板
+utils： 存放工具函数
+styles：样式
+pages： 路由组件
+components: 通用组件
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
